@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abdul-Basitt1
+- 👋 Hi, I’m Abdul Basit
 - 👀 I’m interested in game development and video editing
-- 🌱 I’m currently learning app development in android studio, RDBMS and game development
+- 🌱 Currntly learning app development on Android Studio and Flutter. Interested in game development.
 - 💞️ I’m looking to collaborate on coding projects and gaming projects
 - 📫 How to reach me - abdulrocker4@gmail.com
 
