@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Basit
-- 👀 Interested in APP and GAME development
-- 🌱 Currntly learning app development on Android Studio and Flutter. Interested in game development.
-- 💞️ I’m looking to collaborate on coding projects and gaming projects
+- 👀 Interested in Flutter and Video Editing
+- 🌱 Currntly working on Flutter alongside with Premiere Pro.
+- 💞️ I’m looking to collaborate and contribute to projects.
 - 📫 How to reach me - abdulrocker4@gmail.com
 
 <!---
