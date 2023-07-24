@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Basit
-- 👀 Interested in Flutter and Video Editing
-- 🌱 Currntly working on Flutter alongside with Premiere Pro.
+- 👀 Interested in Android and Game Development
+- 🌱 Currntly working on Android Studio & React Native.
 - 💞️ I’m looking to collaborate and contribute to projects.
 - 📫 How to reach me - abdulrocker4@gmail.com
 
