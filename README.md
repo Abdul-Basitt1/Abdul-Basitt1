@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Basit
-- 👀 Interested in Android and Game Development
-- 🌱 Currntly working on Android Studio & React Native.
+- 👀 Interested in Mobile Application Development.
+- 🌱 Currntly working on React Native as well as Android Studio(Java).
 - 💞️ I’m looking to collaborate and contribute to projects.
 - 📫 How to reach me - abdulrocker4@gmail.com
 
