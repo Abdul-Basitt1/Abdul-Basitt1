@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">I build high-performance mobile apps using React Native CLI and work on blockchain-based projects. My focus is on delivering smooth, scalable, and real-time applications that bridge mobile technology with Web3. 🚀</p>
-
-###
-
 <br clear="both">
 
 <img align="right" height="100" src="https://media1.tenor.com/m/mtiOW6O-k8YAAAAd/shrek-shrek-rizz.gif"  />
+
+###
+
+<p align="left">I build high-performance mobile apps using React Native CLI and work on blockchain-based projects. My focus is on delivering smooth, scalable, and real-time applications that bridge mobile technology with Web3. 🚀</p>
 
 ###
 
