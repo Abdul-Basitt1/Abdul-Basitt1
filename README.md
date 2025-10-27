@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://media1.tenor.com/m/mtiOW6O-k8YAAAAd/shrek-shrek-rizz.gif"  />
+<!-- <img align="right" height="100" src="https://media1.tenor.com/m/mtiOW6O-k8YAAAAd/shrek-shrek-rizz.gif"  /> -->
 
 ###
 
