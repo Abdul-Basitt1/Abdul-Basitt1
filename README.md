@@ -37,36 +37,61 @@ My work is mostly around **React Native**, **Expo**, **Firebase**, **API integra
 
 ---
 
-## 🧭 Engineering Profile
+## ✦ Core Expertise
 
 <div align="center">
+
+<sub>Building polished mobile products with a strong focus on architecture, performance, real-time systems, and modern product execution.</sub>
+
+<br/>
+<br/>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Product Development</h3>
+      <h3>📱 Mobile Product Engineering</h3>
       <p>
-        Building Android and iOS applications with React Native, Expo, reusable architecture, responsive UI, local storage, navigation flows, and production-ready app structure.
+        I build cross-platform Android and iOS apps using <b>React Native</b> and <b>Expo</b>, with clean architecture, reusable components, smooth navigation, and production-ready foundations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/Cross--Platform-Apps-0EA5E9?style=flat-square" alt="Cross Platform Apps" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Real-Time App Systems</h3>
+      <h3>⚡ Real-Time Systems</h3>
       <p>
-        Creating real-time experiences including chat, live updates, notifications, Firebase workflows, Firestore sync, media handling, and user activity states.
+        I design real-time app experiences such as chat, push notifications, live sync, presence states, and media workflows using scalable services like <b>Firebase</b> and event-driven app patterns.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Realtime-Sync-14B8A6?style=flat-square" alt="Realtime Sync" />
+        <img src="https://img.shields.io/badge/Push-Notifications-8B5CF6?style=flat-square" alt="Push Notifications" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 Web3 & Crypto Flows</h3>
+      <h3>🔐 Web3 & Crypto Products</h3>
       <p>
-        Working with crypto wallet flows, blockchain-based features, transactions, payments, wallet interactions, and Web3-focused mobile products.
+        I work on crypto wallet flows, blockchain integrations, transaction handling, payments, and <b>Web3-powered mobile experiences</b> that bridge modern apps with decentralized functionality.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Web3-121D33?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3" />
+        <img src="https://img.shields.io/badge/Blockchain-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Blockchain" />
+        <img src="https://img.shields.io/badge/Crypto-Wallets-7C3AED?style=flat-square" alt="Crypto Wallets" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 UI Execution & Performance</h3>
+      <h3>🎨 UI, UX & Performance</h3>
       <p>
-        Converting Figma designs into clean interfaces while improving rendering performance, list behavior, caching, responsiveness, and smooth user experience.
+        I turn Figma designs into polished interfaces while improving rendering, caching, responsiveness, and overall app feel—so the final product looks refined and performs smoothly in real use.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/UI%2FUX-Execution-EC4899?style=flat-square" alt="UI UX Execution" />
+        <img src="https://img.shields.io/badge/Performance-Optimization-22C55E?style=flat-square" alt="Performance Optimization" />
       </p>
     </td>
   </tr>
