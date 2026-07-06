@@ -126,24 +126,6 @@ My work is mostly around **React Native**, **Expo**, **Firebase**, **API integra
 
 ---
 
-## 🚀 What I Build
-
-<div align="center">
-
-| Area | What I Do |
-| --- | --- |
-| 📱 Mobile Apps | Cross-platform Android and iOS apps with React Native |
-| 🔐 Crypto Wallets | Wallet flows, blockchain integrations, payments, and Web3 features |
-| ⚡ Real-Time Apps | Chat apps, live updates, notifications, and sync-based experiences |
-| 🔥 Firebase Apps | Firestore, Authentication, Cloud Storage, FCM, and real-time databases |
-| 🤖 AI Solutions | AI-integrated mobile experiences and smart app workflows |
-| 🎮 Game Experiments | Unity-based game ideas and interactive experiences |
-| 🎨 UI Implementation | Pixel-perfect screens from Figma to production-ready apps |
-
-</div>
-
----
-
 ## 📊 GitHub Overview
 
 <div align="center">
