@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,18:0F172A,36:1E1B4B,54:312E81,72:0891B2,100:22D3EE&text=Abdul%20Basit&fontSize=66&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20React%20Native%20Developer%20%E2%80%A2%20Mobile%20%2B%20Web3%20Builder&descAlignY=55&descSize=18" width="100%" alt="Abdul Basit Hero Header" />
+<img
+  width="100%"
+  alt="Abdul Basit Hero Header"
+  src="https://capsule-render.vercel.app/api?type=venom&height=310&color=0:020617,15:0F172A,35:1E1B4B,55:312E81,75:0E7490,100:22D3EE&text=Abdul%20Basit&fontSize=72&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20React%20Native%20Developer%20%E2%80%A2%20Mobile%20%2B%20Web3%20Builder&descSize=19&descAlignY=58&stroke=22D3EE&strokeWidth=1"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=60&lines=Building+polished+mobile+products+with+React+Native;Designing+real-time%2C+scalable%2C+production-ready+apps;React+Native+%E2%80%A2+Expo+%E2%80%A2+Firebase+%E2%80%A2+Web3;Focused+on+performance%2C+UX%2C+and+clean+architecture" alt="Animated Developer Introduction" />
+<img
+  alt="Animated Developer Intro"
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=980&height=70&lines=Building+polished+mobile+products+with+React+Native;React+Native+%E2%80%A2+Expo+%E2%80%A2+Firebase+%E2%80%A2+Web3;Designing+fast%2C+scalable%2C+real-time+app+experiences;Focused+on+clean+UX%2C+performance+and+architecture"
+/>
 
 <br/>
 
@@ -13,7 +20,11 @@
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:6366F1,100:A855F7" width="72%" alt="Gradient Divider" />
+<img
+  width="74%"
+  alt="Gradient Divider"
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,35:6366F1,70:A855F7,100:EC4899"
+/>
 
 </div>
 
