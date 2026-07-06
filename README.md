@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abdul-Basitt1/Abdul-Basitt1/main/assets/hero-header.svg" width="100%" alt="Abdul Basit Hero Header" />
-
+<img src="./assets/hero-header.svg" width="100%" alt="Abdul Basit Hero Header" />
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Abdul-Basitt1&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
