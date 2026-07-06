@@ -48,7 +48,6 @@ My work is mostly around **React Native**, **Expo**, **Firebase**, **API integra
 
 </div>
 
-<br/>
 
 <table>
   <tr>
