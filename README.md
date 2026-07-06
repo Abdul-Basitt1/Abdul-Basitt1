@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:12002F,25:240046,50:3C096C,75:5A189A,100:00F5D4&text=Abdul%20Basit&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20React%20Native%20Developer%20%7C%20Mobile%20%2B%20Web3%20Builder&descAlignY=58&descSize=18" width="100%" alt="Abdul Basit Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:03001C,20:301E67,45:5B8FB9,70:B6EADA,100:00F5D4&text=Abdul%20Basit&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=43&font=Fira%20Code&stroke=00F5D4&strokeWidth=1&desc=Full%20Stack%20React%20Native%20Developer%20%7C%20Mobile%20%2B%20Web3%20Builder&descAlignY=63&descSize=18" width="100%" alt="Abdul Basit Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdul+Basit+%F0%9F%91%8B;React+Native+Developer+building+mobile+products;I+work+with+React+Native%2C+Expo%2C+Firebase+%26+Web3;Focused+on+performance%2C+clean+UX+and+real-world+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&duration=2600&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdul+Basit+%F0%9F%91%8B;React+Native+Developer+building+mobile+products;React+Native+%E2%80%A2+Expo+%E2%80%A2+Firebase+%E2%80%A2+Web3;Focused+on+performance%2C+clean+UX+and+real-world+apps)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Abdul-Basitt1&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Abdul-Basitt1?label=Followers&style=for-the-badge&color=5A189A" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/Abdul-Basitt1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=FFD166" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/followers/Abdul-Basitt1?label=Followers&style=for-the-badge&color=5B8FB9" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/Abdul-Basitt1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=B6EADA" alt="GitHub Stars" />
 
 </div>
 
@@ -35,31 +35,43 @@ My work is mostly around **React Native**, **Expo**, **Firebase**, **API integra
 
 ---
 
-## 🧩 Mobile App Command Center
+## 🧭 Product Engineering Map
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Mobile%20Apps-React%20Native-00F5D4?style=for-the-badge&logo=react&logoColor=black" alt="Mobile Apps React Native" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/01-Mobile%20Architecture-00F5D4?style=for-the-badge&logo=react&logoColor=black" alt="Mobile Architecture" />
+      <br/>
+      <sub>Scalable React Native app structure, navigation, state, storage, and reusable components.</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Web3-Crypto%20Wallets-7B2CBF?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Web3 Crypto Wallets" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/02-Realtime%20Systems-B6EADA?style=for-the-badge&logo=firebase&logoColor=black" alt="Realtime Systems" />
+      <br/>
+      <sub>Chat, notifications, live updates, sync flows, Firebase, and event-driven app features.</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Realtime-Firebase-FFD166?style=for-the-badge&logo=firebase&logoColor=black" alt="Realtime Firebase" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/03-Web3%20Flows-5B8FB9?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Web3 Flows" />
+      <br/>
+      <sub>Wallet features, blockchain integrations, transaction flows, and crypto-based products.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/UI-Figma%20to%20App-F72585?style=for-the-badge&logo=figma&logoColor=white" alt="Figma To App" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/04-API%20Layer-301E67?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Layer" />
+      <br/>
+      <sub>Clean API integrations, auth flows, backend communication, and production-ready data handling.</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/APIs-Integrations-118AB2?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integrations" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/05-UI%20Execution-9D4EDD?style=for-the-badge&logo=figma&logoColor=white" alt="UI Execution" />
+      <br/>
+      <sub>Figma-to-app implementation with responsive layouts, smooth UX, and polished screens.</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/Performance-Mobile%20UX-06D6A0?style=for-the-badge&logo=googleanalytics&logoColor=black" alt="Mobile UX Performance" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/06-Performance-06D6A0?style=for-the-badge&logo=googleanalytics&logoColor=black" alt="Performance" />
+      <br/>
+      <sub>App speed, rendering optimization, local caching, list performance, and smooth interactions.</sub>
     </td>
   </tr>
 </table>
@@ -149,14 +161,32 @@ My work is mostly around **React Native**, **Expo**, **Firebase**, **API integra
 
 <div align="center">
 
-<pre>
-React Native Performance Optimization
-Advanced Blockchain Features
-Real-Time Chat Architecture
-Scalable Mobile App Systems
-AI-Powered App Features
-Clean UI and Better User Experience
-</pre>
+<table>
+  <tr>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/Performance-React%20Native%20Optimization-00F5D4?style=for-the-badge&logo=react&logoColor=black" alt="React Native Performance Optimization" />
+    </td>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/Blockchain-Advanced%20Features-5B8FB9?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Advanced Blockchain Features" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/Realtime-Chat%20Architecture-B6EADA?style=for-the-badge&logo=firebase&logoColor=black" alt="Real-Time Chat Architecture" />
+    </td>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/Systems-Scalable%20Mobile%20Apps-301E67?style=for-the-badge&logo=android&logoColor=white" alt="Scalable Mobile App Systems" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/AI-Mobile%20App%20Features-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Powered App Features" />
+    </td>
+    <td align="center" width="260">
+      <img src="https://img.shields.io/badge/UI-Clean%20User%20Experience-F72585?style=for-the-badge&logo=figma&logoColor=white" alt="Clean UI and Better User Experience" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -202,6 +232,6 @@ Clean UI and Better User Experience
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:12002F,25:240046,50:3C096C,75:5A189A,100:00F5D4" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:03001C,20:301E67,45:5B8FB9,70:B6EADA,100:00F5D4" width="100%" alt="Footer Wave" />
 
 </div>
