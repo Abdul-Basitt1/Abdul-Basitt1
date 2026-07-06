@@ -41,9 +41,19 @@ My work is mostly around **React Native**, **Expo**, **Firebase**, **API integra
 
 <div align="center">
 
-<sub>Building polished mobile products with a strong focus on architecture, performance, real-time systems, and modern product execution.</sub>
+<table>
+  <tr>
+    <td align="center">
+      <h3>
+        Building polished mobile products with clean architecture, real-time systems, Web3 flows, and smooth user experiences.
+      </h3>
+      <p>
+        A focused mix of mobile engineering, performance optimization, Firebase workflows, blockchain integrations, and production-ready UI execution.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<br/>
 <br/>
 
 <table>
