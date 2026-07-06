@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Abdul%20Basit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20React%20Native%20Developer%20🚀&descAlignY=58&descSize=18" width="100%" />
@@ -254,4 +253,3 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F2027,50:203A43,100:2C5364" width="100%" />
 
 </div>
-```
