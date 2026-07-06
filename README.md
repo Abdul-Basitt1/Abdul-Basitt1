@@ -1,30 +1,17 @@
 <div align="center">
 
-<img
-  width="100%"
-  alt="Abdul Basit Hero Header"
-  src="https://capsule-render.vercel.app/api?type=venom&height=310&color=0:020617,15:0F172A,35:1E1B4B,55:312E81,75:0E7490,100:22D3EE&text=Abdul%20Basit&fontSize=72&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20React%20Native%20Developer%20%E2%80%A2%20Mobile%20%2B%20Web3%20Builder&descSize=19&descAlignY=58&stroke=22D3EE&strokeWidth=1"
-/>
-
-<img
-  alt="Animated Developer Intro"
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=980&height=70&lines=Building+polished+mobile+products+with+React+Native;React+Native+%E2%80%A2+Expo+%E2%80%A2+Firebase+%E2%80%A2+Web3;Designing+fast%2C+scalable%2C+real-time+app+experiences;Focused+on+clean+UX%2C+performance+and+architecture"
-/>
+<img src="https://raw.githubusercontent.com/Abdul-Basitt1/Abdul-Basitt1/main/assets/hero-header.svg" width="100%" alt="Abdul Basit Hero Header" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Abdul-Basitt1&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Abdul-Basitt1?label=Followers&style=for-the-badge&color=312E81" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/Abdul-Basitt1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0891B2" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/followers/Abdul-Basitt1?label=Followers&style=for-the-badge&color=6366F1" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/Abdul-Basitt1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7" alt="GitHub Stars" />
 
 <br/>
 <br/>
 
-<img
-  width="74%"
-  alt="Gradient Divider"
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,35:6366F1,70:A855F7,100:EC4899"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=45&lines=Building+polished+mobile+products+with+React+Native;React+Native+%E2%80%A2+Expo+%E2%80%A2+Firebase+%E2%80%A2+Web3;Focused+on+performance%2C+architecture%2C+and+clean+UX" alt="Animated Developer Intro" />
 
 </div>
 
