@@ -18,6 +18,16 @@
       <animate attributeName="x2" values="1140;1040;1140" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
 
+    <linearGradient id="shimmerGradient" x1="-420" y1="0" x2="-120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-420;1220" dur="4.8s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-120;1520" dur="4.8s" begin="1.8s" repeatCount="indefinite"/>
+    </linearGradient>
+
     <radialGradient id="glowLeft" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.42"/>
       <stop offset="55%" stop-color="#22D3EE" stop-opacity="0.12"/>
@@ -49,6 +59,12 @@
 
     <clipPath id="clip">
       <rect x="102" y="56" width="1196" height="288" rx="30"/>
+    </clipPath>
+
+    <clipPath id="subtitleReveal">
+      <rect x="235" y="247" width="0" height="46" rx="4">
+        <animate attributeName="width" values="0;930" dur="1.45s" begin="1.12s" fill="freeze"/>
+      </rect>
     </clipPath>
   </defs>
 
@@ -117,37 +133,58 @@
       y="196"
       text-anchor="middle"
       font-family="'Space Grotesk', 'Inter', 'Segoe UI', Arial, sans-serif"
-      font-size="76"
+      font-size="90"
       font-weight="800"
-      letter-spacing="-3"
+      letter-spacing="2"
       fill="url(#nameGradient)"
       filter="url(#softGlow)"
       opacity="0"
     >
       Abdul Basit
-      <animate attributeName="opacity" values="0;1" dur="1s" begin="0.2s" fill="freeze"/>
-      <animate attributeName="y" values="216;196" dur="1s" begin="0.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.18s" fill="freeze"/>
+      <animate attributeName="y" values="214;196" dur="0.9s" begin="0.18s" fill="freeze"/>
+      <animate attributeName="letter-spacing" values="2;-3" dur="0.95s" begin="0.18s" fill="freeze"/>
+    </text>
+
+    <text
+      x="700"
+      y="196"
+      text-anchor="middle"
+      font-family="'Space Grotesk', 'Inter', 'Segoe UI', Arial, sans-serif"
+      font-size="72"
+      font-weight="800"
+      letter-spacing="-3"
+      fill="url(#shimmerGradient)"
+      opacity="0.35"
+      pointer-events="none"
+    >
+      Abdul Basit
     </text>
 
     <rect x="408" y="222" width="0" height="4" rx="2" fill="url(#lineGlow)">
       <animate attributeName="width" values="0;584" dur="1s" begin="0.95s" fill="freeze"/>
     </rect>
 
-    <text
-      x="700"
-      y="276"
-      text-anchor="middle"
-      font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace"
-      font-size="22"
-      font-weight="600"
-      letter-spacing="0.8"
-      fill="#E2E8F0"
-      opacity="0"
-    >
-      Full Stack React Native Developer • Mobile + Web3 Builder
-      <animate attributeName="opacity" values="0;0.98" dur="0.9s" begin="1.1s" fill="freeze"/>
-      <animate attributeName="y" values="292;276" dur="0.9s" begin="1.1s" fill="freeze"/>
-    </text>
+    <g clip-path="url(#subtitleReveal)">
+      <text
+        x="700"
+        y="276"
+        text-anchor="middle"
+        font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace"
+        font-size="22"
+        font-weight="600"
+        letter-spacing="0.8"
+        fill="#E2E8F0"
+        opacity="0.98"
+      >
+        Full Stack React Native Developer • Mobile + Web3 Builder
+      </text>
+    </g>
+
+    <rect x="235" y="252" width="3" height="31" rx="1.5" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" dur="1.65s" begin="1.08s" fill="freeze"/>
+      <animate attributeName="x" values="235;1165" dur="1.45s" begin="1.12s" fill="freeze"/>
+    </rect>
 
     <rect x="-300" y="0" width="180" height="460" fill="white" opacity="0.04" transform="skewX(-16)">
       <animate attributeName="x" values="-300;1550" dur="7s" repeatCount="indefinite"/>
