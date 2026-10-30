@@ -17,8 +17,6 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abdul-basit-246524240/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Abdul-Basitt1">GitHub</a>
-  &nbsp;·&nbsp;
   <a href="https://stackoverflow.com/users/18278942/abdul-basit">Stack Overflow</a>
   &nbsp;·&nbsp;
   <a href="https://abdul-basitt.itch.io/">Itch.io</a>
